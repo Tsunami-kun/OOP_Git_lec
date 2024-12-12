@@ -1,6 +1,6 @@
 # OOP_Git_lec
-SI100 Project lec0: oop和git初步
+ShanghaiTech 2025-2025Fall SI100B 游戏编程Project lecture0: oop和git初步
 
-Yanming Shao
+Lecturer： Yanming Shao
 
 shaoym2023@shanghaitech.edu.cn
